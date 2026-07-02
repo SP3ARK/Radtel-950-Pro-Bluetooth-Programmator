@@ -4,9 +4,11 @@
   <img src="AppIcons/playstore.png" alt="Radtel RT-950 Pro Programmer app icon" width="96" height="96">
 </p>
 <p align="center">
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20PL-259&emoji=%F0%9F%94%8C&slug=sp3ark&button_colour=FFBF00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/sp3ark)
+  <a href="https://buymeacoffee.com/sp3ark">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20PL-259&slug=sp3ark&button_colour=FFBF00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a PL-259">
+  </a>
 </p>
-https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20PL-259&emoji=🔌&slug=sp3ark&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff
+
 Android application for programming the Radtel RT-950 Pro overBluetooth Low Energy.
 
 The app reads the radio memory into an editor, lets you make changes on the
