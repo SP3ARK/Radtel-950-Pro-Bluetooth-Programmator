@@ -7,6 +7,9 @@
   <a href="https://buymeacoffee.com/sp3ark">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20PL-259&slug=sp3ark&button_colour=FFBF00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a PL-259">
   </a>
+  <a href="https://paypal.me/sp3ark">
+    <img src="https://img.shields.io/badge/PayPal-Buy%20me%20a%20PL--259-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal">
+  </a>
 </p>
 
 Android application for programming the Radtel RT-950 Pro overBluetooth Low Energy.
