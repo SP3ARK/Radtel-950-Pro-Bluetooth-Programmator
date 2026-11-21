@@ -182,6 +182,9 @@ documentation.
 4. Android may ask you to allow installation from your browser or file manager.
 5. Start the app and grant the requested Bluetooth permissions.
 
+If you denied Bluetooth access, the scan screen has a button to open the app's
+settings. Grant Bluetooth access there, then return to the app and scan again.
+
 To update, install the new APK over the old one. Profiles, saved radios and
 gateway settings stay.
 
