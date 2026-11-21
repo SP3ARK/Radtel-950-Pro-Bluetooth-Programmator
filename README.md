@@ -176,7 +176,7 @@ documentation.
 
 ## Installation
 
-1. Open the latest GitHub Release.
+1. Open the [latest GitHub Release](https://github.com/SP3ARK/Radtel-950-Pro-Bluetooth-Programmator/releases/latest).
 2. Download the signed APK attached to the release.
 3. Install it on an Android device.
 4. Android may ask you to allow installation from your browser or file manager.
